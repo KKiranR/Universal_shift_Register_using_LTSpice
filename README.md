@@ -65,4 +65,11 @@ it performs the parallel loading operation and stores the data.<br/>
 ### Instructions to runcode:
 First copy the Tsmc018.lib in library files in (your LT spice installed libray)/lib/sub<br/>
 Now copy cmosp and cmosn in (your LT spice installed libray)/lib/sym <br/>
-then you are good to go
+Run file TESTBENCH.asc to get results <br\>
+then you are good to go <br\>
+
+
+
+Authour:K Kiran Reddy<br\>
+Refered from various internet sources
+
